@@ -209,7 +209,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /*~~~~~~~~~~~~~~~~~~*/
 
 .title-slide-final {
-  background-color: #4C4B4C;
+  background-color: #AAA59F;
   color: #fff;
   padding-left: 100px;
 /*  text-shadow: 0 0 3px #333; */  
@@ -221,7 +221,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 }
 
 .title-slide-final h3 {
-  color: #AAA59F;
+  color: #4C4B4C;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~*/
@@ -235,7 +235,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Color adjustments for text */
 
-/* Make bold syntax compile to RU-red */
+/* Make bold syntax compile to midd-blue */
 strong {
   color: #0D395F;
 }
