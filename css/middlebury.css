@@ -181,8 +181,8 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 }
 
 /* section divider blue H1 fonts */
-.title-slide-section-red h1, .title-slide-section-red h2, .title-slide-section-red h3, .title-slide-section-red p {
-  color: #fff;
+.title-slide-section-blue h1, .title-slide-section-blue h2, .title-slide-section-blue h3, .title-slide-section-blue p {
+  color: #AAA59F;
 }
 
 /* section divider grey */
@@ -193,7 +193,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* section divider grey H1 fonts */
 .title-slide-section-grey h1, .title-slide-section-grey h2, .title-slide-section-grey h3 {
-  color: #fff;
+  color: #AAA59F;
 }
 
 .title-slide-section-grey p {
