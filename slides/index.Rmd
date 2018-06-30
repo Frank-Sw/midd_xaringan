@@ -2,7 +2,7 @@
 title: "Xaringan example"
 subtitle: "Middlebury College template"
 author: "Joseph V. Casillas"
-date: "Rutgers University </br> `r Sys.Date()`"
+date: "Middlebury College </br> `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
