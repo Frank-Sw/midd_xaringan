@@ -1,18 +1,18 @@
-# ru_xaringan
+# midd_xaringan
 
-Minimalist xaringan theme for html presentations using RU style/colors
+Minimalist xaringan theme for html presentations using Middlebury style/colors
 
 ## Examples
 
 ![Title page](./img/ex/title_page.png)
 
-Example presentation [here](http://www.jvcasillas.com/ru_xaringan/slides/index.html). 
+Example presentation [here](https://www.jvcasillas.com/midd_xaringan/slides/index.html). 
 
 ## Usage
 
-The Rutgers theme is now part of `xaringan` (as of 3/9/2018). You can 
-use it by downloading the latest version of `xaringan` and adding `rutgers` 
-and `rutgers-fonts` to the `css` call in the yaml front matter: 
+The Middlebury theme ~~is now~~ will hopefully soon be part of `xaringan`. You ~~can~~ 
+will probably be able to use it by downloading the latest version of `xaringan` and adding `middlebury` 
+and `middlebury-fonts` to the `css` call in the yaml front matter: 
 
 
 ```
@@ -20,13 +20,13 @@ and `rutgers-fonts` to the `css` call in the yaml front matter:
 title: "Title here"
 subtitle: "Sub-title here"
 author: "Your Name"
-date: "Rutgers University </br> `r Sys.Date()`"
+date: "Middlebury College </br> `r Sys.Date()`"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["rutgers", "rutgers-fonts"]
+    css: ["middlebury", "middlebury-fonts"]
     nature:
-      beforeInit: "http://www.jvcasillas.com/ru_xaringan/js/ru_xaringan.js"
+      beforeInit: "https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js"
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
