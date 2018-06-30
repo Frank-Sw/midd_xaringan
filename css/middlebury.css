@@ -208,7 +208,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   background-color: #4C4B4C;
   color: #fff;
   padding-left: 100px;
-  text-shadow: 0 0 3px #333;
+/*  text-shadow: 0 0 3px #333; */  
   text-align: center;
 }
 
