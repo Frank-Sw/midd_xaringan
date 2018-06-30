@@ -381,14 +381,14 @@ background-position: 9% 15%
 
 ## This is the final slide
 
-### you can add your email, twitter, github, etc. info here
+### .white[you can add your email, twitter, github, etc. info here]
 
-Here is an example:  
+**Here is an example:**
 
 |                                                                                                            |                                   |
 | :--------------------------------------------------------------------------------------------------------- | :-------------------------------- |
-| <a href="mailto:jcasilla@middlebury.edu">.RUred[<i class="fa fa-paper-plane fa-fw"></i>] | **jcasilla@middlebury.edu**       |
-| <a href="https://www.jvcasillas.com/midd_xaringan/slides/index.html">.RUred[<i class="fa fa-link fa-fw"></i>] | **jvcasillas.com/midd_xaringan/slides** |
-| <a href="http://twitter.com/jvcasill">.RUred[<i class="fa fa-twitter fa-fw"></i>] | **@jvcasill**                         |
-| <a href="http://github.com/jvcasillas">.RUred[<i class="fa fa-github fa-fw"></i>] | **@jvcasillas**                       |
+| <a href="mailto:jcasilla@middlebury.edu">.RUred[<i class="fa fa-paper-plane fa-fw"></i>] | jcasilla@middlebury.edu       |
+| <a href="https://www.jvcasillas.com/midd_xaringan/slides/index.html">.RUred[<i class="fa fa-link fa-fw"></i>] | jvcasillas.com/midd_xaringan/slides |
+| <a href="http://twitter.com/jvcasill">.RUred[<i class="fa fa-twitter fa-fw"></i>] | @jvcasill                         |
+| <a href="http://github.com/jvcasillas">.RUred[<i class="fa fa-github fa-fw"></i>] | @jvcasillas                       |
 
