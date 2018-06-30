@@ -208,12 +208,16 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   background-color: #4C4B4C;
   color: #fff;
   padding-left: 100px;
-  text-shadow: 0 0 20px #333;
+  text-shadow: 0 0 3px #333;
   text-align: center;
 }
 
 .title-slide-final h1 {
   color: #0D395F;
+}
+
+.title-slide-final h3 {
+  color: #AAA59F;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~*/
