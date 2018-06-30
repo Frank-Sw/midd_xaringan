@@ -8,7 +8,7 @@ output:
     lib_dir: libs
     css: ["https://www.jvcasillas.com/midd_xaringan/css/middlebury.css", "https://www.jvcasillas.com/midd_xaringan/css/middlebury-fonts.css"]
     nature:
-      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/ru_xaringan.js"]
+      beforeInit: ["https://www.jvcasillas.com/midd_xaringan/js/midd_xaringan.js"]
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
