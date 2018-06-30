@@ -174,7 +174,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /* SECTION DIVIDERS */
 /*~~~~~~~~~~~~~~~~~~*/
 
-/* section divider red */
+/* section divider blue */
 .title-slide-section-blue {
   background-color: #0D395F;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
@@ -182,7 +182,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* section divider blue H1 fonts */
 .title-slide-section-red h1, .title-slide-section-red h2, .title-slide-section-red h3, .title-slide-section-red p {
-  color: #4C4B4C;
+  color: #fff;
 }
 
 /* section divider grey */
@@ -193,7 +193,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* section divider grey H1 fonts */
 .title-slide-section-grey h1, .title-slide-section-grey h2, .title-slide-section-grey h3 {
-  color: #0D395F;
+  color: #fff;
 }
 
 .title-slide-section-grey p {

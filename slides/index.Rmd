@@ -276,14 +276,14 @@ remark.macros.scale = function (percentage) {
 - These calls can also be put inside html divs so as to control where they appear. 
 
 <div align="center">
-![:scale 20%](../img/logo/middlebury_shield.png)
+![:scale 10%](../img/logo/middlebury_shield.png)
 </div>
 
 - All we need to do is include `beforeInit: "macros.js"` under nature in our YAML front matter
 
 ---
 
-# RU stuff
+# Middlebury stuff
 
 ### General
 
@@ -298,7 +298,7 @@ remark.macros.scale = function (percentage) {
 - We can create section dividers with RU red and grey by using the `class` call:
 
 ```md
-class: title-slide-section-red
+class: title-slide-section-blue
 ```
 
 or 
@@ -308,7 +308,7 @@ class: title-slide-section-grey
 ```
 
 ---
-class: title-slide-section-red
+class: title-slide-section-blue
 
 # RU red section divider
 
