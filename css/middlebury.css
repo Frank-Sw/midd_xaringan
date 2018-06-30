@@ -174,25 +174,25 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /*~~~~~~~~~~~~~~~~~~*/
 
 /* section divider red */
-.title-slide-section-red {
-  background-color: #cc0033;
+.title-slide-section-blue {
+  background-color: #003F87;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
-/* section divider red H1 fonts */
+/* section divider blue H1 fonts */
 .title-slide-section-red h1, .title-slide-section-red h2, .title-slide-section-red h3, .title-slide-section-red p {
-  color: #fff;
+  color: #2B2B28;
 }
 
 /* section divider grey */
 .title-slide-section-grey {
-  background-color: #515151;
+  background-color: #2B2B28;
   padding-left: 100px;  /* delete this for 4:3 aspect ratio */
 }
 
 /* section divider grey H1 fonts */
 .title-slide-section-grey h1, .title-slide-section-grey h2, .title-slide-section-grey h3 {
-  color: #fff;
+  color: #003F87;
 }
 
 .title-slide-section-grey p {
@@ -204,7 +204,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 /*~~~~~~~~~~~~~~~~~~*/
 
 .title-slide-final {
-  background-color: #272822;
+  background-color: #2B2B28;
   color: #fff;
   padding-left: 100px;
   text-shadow: 0 0 20px #333;
@@ -212,7 +212,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 }
 
 .title-slide-final h1 {
-  color: #cc0033;
+  color: #003F87;
 }
 
 /*~~~~~~~~~~~~~~~~~~~~*/
@@ -228,7 +228,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 
 /* Make bold syntax compile to RU-red */
 strong {
-  color: #cc0033;
+  color: #003F87;
 }
 
 .RUred {
@@ -237,17 +237,17 @@ strong {
 
 /* Add blue tag */
 .blue {
-  color: #0000CC;
+  color: #003F87;
   font-weight: bold;
 }
 
 /* Add grey tag */
 .grey {
-  color: #515151;
+  color: #2B2B28;
 }
 
 .lightgrey {
-  color: #818181;
+  color: #C1B5A5;
 }
 
 /* Force black */
@@ -263,11 +263,11 @@ strong {
 
 /* Color adjustments to headers */
 h1 {
-  color: #cc0033;
+  color: #003F87;
 }
 
 h3 {
-  color: #515151;
+  color: #C1B5A5;
 }
 
 /* Font size tags */
@@ -275,15 +275,15 @@ h3 {
   font-size: 1.5em;
 }
 
-/* ru blockquote */
-ru-blockquote {
+/* midd blockquote */
+midd-blockquote {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
   margin-left: 40px;
   margin-right: 40px;
-  border-left: solid 10px #cc0033;
-  background-color: #818181;
+  border-left: solid 10px #003F87;
+  background-color: #C1B5A5;
   padding: 1em;
   color: #fff;
   -moz-border-radius: 5px;
