@@ -220,6 +220,10 @@ thead, tfoot, tr:nth-child(even) { background: none; }
   color: #0D395F;
 }
 
+.title-slide-final h2 {
+  color: #97BBD5;
+}
+
 .title-slide-final h3 {
   color: #4C4B4C;
 }
