@@ -67,7 +67,7 @@ ggplot(cars, aes(x = dist, y = speed)) +
   - we can use `<ru-blockquote>text</ru-blockquote>` 
   - or `>`
 
-<ru-blockquote>This is a blocked quote</ru-blockquote>
+<midd-blockquote>This is a blocked quote</midd-blockquote>
 
 - Footnotes<sup>1</sup>
 

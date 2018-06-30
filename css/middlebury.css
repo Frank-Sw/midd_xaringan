@@ -7,7 +7,8 @@ Updated: 06/29/2018
 
 /*
 Blue (official): #003F87, PMS 294
-Blue accent:     #75B2DD, PMS 292;
+Blue accent 1:   #75B2DD, PMS 292
+Blue accent 2:   #B7CCDB, PMS 544
 Grey accent 1:   #2B2B28, PMS 426
 Grey accent 2:   #C1B5A5, PMS 401
 */
@@ -156,7 +157,7 @@ thead, tfoot, tr:nth-child(even) { background: none; }
 .title-slide h3 {
   font-size: 28px;
   font-weight: normal;
-  color: #C1B5A5; /* Middlebury Grey accent 2 */
+  color: #B7CCDB; /* Middlebury blue accent 2 */
   text-align: left;
   text-shadow: none;
   padding: 0px;
@@ -267,7 +268,7 @@ h1 {
 }
 
 h3 {
-  color: #C1B5A5;
+  color: #2B2B28;
 }
 
 /* Font size tags */
