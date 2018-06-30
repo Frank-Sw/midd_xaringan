@@ -16,7 +16,7 @@ Grey accent 2:   #AAA59F, PMS 401
 /* Package defaults that we slightly tweak */
 
 a, a > code {
-  color: #75A3CD; /* blue accent */
+  color: #97BBD5; /* blue accent 2 */
   text-decoration: none;
 }
 
@@ -28,9 +28,9 @@ a, a > code {
   font-size: 95%;
 }
 
-/* important code slightly red */
+/* important code slightly blue */
 .remark-code-line-highlighted {
-  background-color: #FFD3DE !important;
+  background-color: #97BBD5 !important;
 }
 
 /* color tweak */
