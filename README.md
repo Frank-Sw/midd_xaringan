@@ -4,7 +4,7 @@ Minimalist xaringan theme for html presentations using Middlebury style/colors
 
 ## Examples
 
-![Title page](./img/ex/title_page.png)
+![Title page](./img/ex/middlebury_showcase.gif)
 
 Example presentation [here](https://www.jvcasillas.com/midd_xaringan/slides/index.html). 
 
